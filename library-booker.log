@@ -1,0 +1,4 @@
+{"level":"info","message":"Starting Library Booking Agent...","service":"library-booker","timestamp":"2025-08-25T00:46:17.198Z"}
+{"level":"info","message":"Setting up booking schedule: 0 8 * * *","service":"library-booker","timestamp":"2025-08-25T00:46:17.200Z"}
+{"level":"info","message":"Booking schedule established","service":"library-booker","timestamp":"2025-08-25T00:46:17.202Z"}
+{"level":"info","message":"Library Booking Agent started successfully","service":"library-booker","timestamp":"2025-08-25T00:46:17.202Z"}
